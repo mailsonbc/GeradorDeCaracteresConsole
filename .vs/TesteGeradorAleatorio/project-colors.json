@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac278c04-aa1e-473e-be3b-1e3eb544c62c": {
+      "ProjectGuid": "ac278c04-aa1e-473e-be3b-1e3eb544c62c",
+      "DisplayName": "TesteGeradorAleatorio",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

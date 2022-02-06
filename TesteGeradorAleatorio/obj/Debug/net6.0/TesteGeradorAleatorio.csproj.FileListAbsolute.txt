@@ -1,0 +1,15 @@
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\bin\Debug\net6.0\TesteGeradorAleatorio.exe
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\bin\Debug\net6.0\TesteGeradorAleatorio.deps.json
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\bin\Debug\net6.0\TesteGeradorAleatorio.runtimeconfig.json
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\bin\Debug\net6.0\TesteGeradorAleatorio.dll
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\bin\Debug\net6.0\ref\TesteGeradorAleatorio.dll
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\bin\Debug\net6.0\TesteGeradorAleatorio.pdb
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.csproj.AssemblyReference.cache
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.AssemblyInfoInputs.cache
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.AssemblyInfo.cs
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.csproj.CoreCompileInputs.cache
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.dll
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\ref\TesteGeradorAleatorio.dll
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.pdb
+M:\Temp M\Teste_C#\TesteGeradorAleatorio\TesteGeradorAleatorio\obj\Debug\net6.0\TesteGeradorAleatorio.genruntimeconfig.cache
